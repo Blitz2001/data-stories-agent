@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10
+# 3D renderer: Blender as a Python module. bpy 5.2.x needs Python 3.13 exactly.
+bpy==5.2.3
